@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E1456745-ED92-4EB6-8905-E64DC1E47277}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InfiniteCameraRun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DethScript.cs" Line="30" Column="52" />
+      <File FileName="Assets/Scripts/Player.cs" Line="58" Column="54" />
+      <File FileName="Assets/Scripts/StarSetting.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/MainScene.cs" Line="14" Column="29" />
+      <File FileName="Assets/Scripts/ChBtnController.cs" Line="134" Column="43" />
+      <File FileName="Assets/Scripts/CameraBehavior.cs" Line="56" Column="3" />
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="131" Column="10" />
+      <File FileName="Assets/Scripts/MenuButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\userI\Desktop\유니티\FinalProject\Assets\Scripts\Player.cs" line="24" column="1" />
+      <Breakpoint file="C:\Users\userI\Desktop\유니티\FinalProject\Assets\Scripts\Player.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

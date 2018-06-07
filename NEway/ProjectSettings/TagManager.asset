@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Col
+  - HammerBtn
+  - PencilBtn
+  - Destroyer
+  - Line
+  - Ground
+  - Ditem
+  - Inkitem
+  - DethLine
+  - DethPannel
+  - Canvas
+  - Ch1Clear
+  - Chapter1Clear
+  - Chapter2Clear
+  - Chapter3Clear
+  - Chapter4Clear
+  - Chapter5Clear
+  - Chapter6Clear
+  - Chapter7Clear
+  - Star
+  - SpeedItem
+  - UpGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Clear
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Play
+    uniqueID: 1651506581
+    locked: 0
+  - name: Player
+    uniqueID: 3889264239
+    locked: 0

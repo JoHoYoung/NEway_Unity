@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 15814f0bb3bef4cd9a9965a323edd9fc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Starker Marker
+  fontNames:
+  - Starker Marker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c20adec848f6ad43b2636a0cd507553, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
