@@ -1,12 +1,11 @@
 <h1>NEway_Unity</h1>
 A game of drawing lines to reach a destination without falling off<br>
 The explosion of a bomb has a pattern. Try many times to clear
-<h3>* this game have 2Modes </h3><br>
-<h4><t>1. Chapter Mode</h4><br>
-<h5>Has 5 chapters, Limited Drawable Ink</h5><br>
-<h4><t>2. Infinity Mode</h4><br>
+<h3>* this game have 2Modes </h3>
+<h4><t>1. Chapter Mode</h4>
+<h5>Has 5 chapters, Limited Drawable Ink</h5>
+<h4><t>2. Infinity Mode</h4>
 <h5>Infinity Drawable Ink, scoring according to play time<h5><br>
-<br>
 <h2>About U.I(User Interface)</h2><br>
 * Chapter<br>
 <img width="500" alt="chapter" src="https://user-images.githubusercontent.com/37579650/41142597-2cf08fc2-6b31-11e8-8300-10d0e43e63db.png">\
