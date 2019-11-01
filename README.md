@@ -7,10 +7,10 @@ The explosion of a bomb has a pattern. Try many times to clear
 <h4><t>2. Infinity Mode</h4>
 <h5>Infinity Drawable Ink, scoring according to play time<h5><br>
 <h2>About U.I(User Interface)</h2><br>
-* Chapter<br>
-<img width="500" alt="chapter" src="https://user-images.githubusercontent.com/37579650/41142597-2cf08fc2-6b31-11e8-8300-10d0e43e63db.png">\
+  <h2>Chapter</h2><br>
+<img width="500" alt="chapter" src="https://user-images.githubusercontent.com/37579650/41142597-2cf08fc2-6b31-11e8-8300-10d0e43e63db.png">
 <br>
-* Play
+  <h2>Play</h2><br>
 <img width="500" alt="ui_start" src="https://user-images.githubusercontent.com/37579650/41142599-2d167200-6b31-11e8-910d-354199b7bc92.png">
 <br>
 <br>
